@@ -1,6 +1,6 @@
 # UCTPF(Used car transaction price forecast)
 
-个人学习记录, Datawhale 天池二手车交易价格预测 baseline 解读
+个人实践：Datawhale 天池二手车交易价格预测 baseline 解读
 
 ---
 **References:**
